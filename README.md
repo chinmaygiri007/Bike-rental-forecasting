@@ -8,3 +8,4 @@ that may get rented for the test data, after training a model on the train.csv f
 
 1. train_BS & test_BS - These are two datasets collected during 2011 and 2012, when this all started. It contains the various attributes like datetime, season, holiday and etc. "train_BS.csv" helps us in training the model, whereas "test_BS" helps in testing.
 
+2. Bike_Sharing_implementation.ipynb - This the python notebook, which contains the ML model. On which Exploratory data analysis, Model training, testing are performed.
